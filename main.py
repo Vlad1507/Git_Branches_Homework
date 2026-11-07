@@ -1,1 +1,1 @@
-print("Version from NEWBRANCH")
+print("Changes from both branches were merged successfully.")

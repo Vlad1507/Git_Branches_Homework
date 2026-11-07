@@ -1,1 +1,2 @@
-This change was made in NEWBRANCH.
+This file was updated in both master and newbranch.
+The changes were combined during merge.
