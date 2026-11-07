@@ -1,0 +1,5 @@
+MASTER BRANCH
+
+This folder contains the main project functionality.
+
+The program calculates the final price after applying a discount.
