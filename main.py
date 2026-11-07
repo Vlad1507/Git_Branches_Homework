@@ -1,1 +1,1 @@
-print("Git Branches Homework")
+print("Version from MASTER")
